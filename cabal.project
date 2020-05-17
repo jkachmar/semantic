@@ -24,10 +24,10 @@ source-repository-package
   type: git
   location: https://github.com/tclem/proto-lens-jsonpb
   tag: 5d40444be689bef1e12cbe38da0261283775ec64
-  -- sha256: 18sbh8yil86j5sr1r4bn4wlsc3adflm6pvmaakzp3c2cl1cskzgs
+  --sha256: 18sbh8yil86j5sr1r4bn4wlsc3adflm6pvmaakzp3c2cl1cskzgs
 
 source-repository-package
   type: git
   location: https://github.com/antitypical/fused-syntax
   tag: d11e14581217590a5c67f79cbaeee35ac8acee6a
-  -- sha256: 0gqby3ym12va58whm11wrppgp00n726frmvkm1mamzz5cim7awvy
+  --sha256: 0gqby3ym12va58whm11wrppgp00n726frmvkm1mamzz5cim7awvy
