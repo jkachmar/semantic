@@ -5,12 +5,10 @@ let
   niv = (import sources.niv{}).niv;
 
   default = (import ./default.nix args);
-  inherit (default.project) mkShell;
 in
 
-mkShell {
+default.project.shellFor {
   buildInputs = [
     niv
-    nix-prefetch-git
   ];
 }

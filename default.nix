@@ -29,7 +29,7 @@ in
 
 cabalProject {
   inherit ghc;
-  index-state = "2020-04-15T00:00:00Z";
+  index-state = "2020-05-16T00:00:00Z";
 
   src = cleanGit { 
     name = "semantic";
